@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTrainingBatch4.ConsoleApp", "DotNetTrainingBatch4.ConsoleApp\DotNetTrainingBatch4.ConsoleApp.csproj", "{809F0F6D-B4BA-494E-9C1B-72371A5D96F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809F0F6D-B4BA-494E-9C1B-72371A5D96F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809F0F6D-B4BA-494E-9C1B-72371A5D96F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809F0F6D-B4BA-494E-9C1B-72371A5D96F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809F0F6D-B4BA-494E-9C1B-72371A5D96F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8AF9EB-DDC6-4844-A534-8A24A330E6C2}
+	EndGlobalSection
+EndGlobal
